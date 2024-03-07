@@ -1,0 +1,8 @@
+checkpoints/
+*pycache*/
+*.png
+*.pfm
+*.pth
+baselines/
+wandb/
+*.txt
