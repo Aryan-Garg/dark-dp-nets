@@ -1,4 +1,4 @@
-# [ECCV 2024] Dark Tiny dp-Disparity Estimators 
+# Dark Tiny dp-Disparity Estimators 
 
 > Using practical/deployable neural networks for disparity estimation with highest fidelity.
 
